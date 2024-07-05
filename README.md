@@ -34,4 +34,12 @@ flutter run
 Make sure your Android emulator or iOS simulator is running beforehand.
 
 ## Contribusi klompok
-semua berkontribusi dan untuk masalah commit itu akun yang bisa commit yang bisa di pakai karna ada masalah pada gitBash anggota kelompok
+semua berkontribusi dan untuk masalah commit itu akun yang bisa commit yang di pakai karna ada masalah pada gitBash anggota kelompok yang lain
+
+## Output Aplikasi
+![image](https://github.com/Ghinasuciyana/TBTriInvite/assets/126994266/ca1190a3-47d8-4767-8f87-4d7c092a115f)
+![image](https://github.com/Ghinasuciyana/TBTriInvite/assets/126994266/d364ab0a-512d-4cfe-856f-826f2a8b45ce)
+![Uploading image.png…]()
+
+
+
