@@ -1,16 +1,37 @@
-# triinvitee
+# TriInvite Flutter App
 
-A new Flutter project.
+This Flutter application serves as the frontend for TriInvite, an event management app. The frontend is developed using Flutter SDK, while the backend utilizes PHP with MySQL database via XAMPP.
+
+## Dependencies
+
+- **font_awesome_flutter:** ^10.1.0
+- **http:** ^0.13.6
+- **shared_preferences:** ^2.0.15
+- **path_provider:** ^2.0.2
+- **intl:** ^0.17.0
+- **mysql1:** ^0.20.0
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this application locally, ensure you have Flutter installed. Clone the repository and run `flutter pub get` to install dependencies.
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/Ghinasuciyana/TBTriInvite.git
+cd Triinvite
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For the backend setup, ensure you have PHP and MySQL (via XAMPP) configured. Modify the backend PHP files (`save_from.php`, etc.) to match your local setup.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Running the App
+
+Use a Flutter-supported IDE or the command line to run the app:
+
+```bash
+flutter run
+```
+
+Make sure your Android emulator or iOS simulator is running beforehand.
+
+## Contribusi klompok
+semua berkontribusi dan untuk masalah commit itu akun yang bisa commit yang bisa di pakai karna ada masalah pada gitBash anggota kelompok
