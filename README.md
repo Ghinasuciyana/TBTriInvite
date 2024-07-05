@@ -39,7 +39,8 @@ semua berkontribusi dan untuk masalah commit itu akun yang bisa commit yang di p
 ## Output Aplikasi
 ![image](https://github.com/Ghinasuciyana/TBTriInvite/assets/126994266/ca1190a3-47d8-4767-8f87-4d7c092a115f)
 ![image](https://github.com/Ghinasuciyana/TBTriInvite/assets/126994266/d364ab0a-512d-4cfe-856f-826f2a8b45ce)
-![Uploading image.png…]()
+![image](https://github.com/Ghinasuciyana/TBTriInvite/assets/126994266/4d034912-abb4-4b65-9fe0-0c3ce96cd623)
+
 
 
 
